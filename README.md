@@ -1,6 +1,6 @@
-osu-api
+osu-API
 =======
 
-Public API for accessing osu! related data.
+Public API for accessing [osu!](https://osu.ppy.sh/) related data.
 
 See the [wiki](https://github.com/ppy/osu-api/wiki) for more details.
